@@ -542,9 +542,9 @@
                                     Voir le projet <i class="fas fa-external-link-alt text-xs"></i>
                                 </a>
                                 <div class="flex gap-2">
-                                    <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
+                                    <a href="https://github.com/brayano-ux" class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fab fa-github text-xs"></i>
-                                    </button>
+                                    </a>
                                     <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fas fa-play text-xs"></i>
                                     </button>
@@ -583,9 +583,9 @@
                                     Voir le projet <i class="fas fa-external-link-alt text-xs"></i>
                                 </a>
                                 <div class="flex gap-2">
-                                    <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
+                                    <a href="https://github.com/brayano-ux" class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fab fa-github text-xs"></i>
-                                    </button>
+                                    </a>
                                     <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fas fa-play text-xs"></i>
                                     </button>
@@ -623,9 +623,9 @@
                                     Voir le projet <i class="fas fa-external-link-alt text-xs"></i>
                                 </a>
                                 <div class="flex gap-2">
-                                    <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
+                                    <a href="https://github.com/brayano-ux" class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fab fa-github text-xs"></i>
-                                    </button>
+                                    </a>
                                     <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fas fa-play text-xs"></i>
                                     </button>
@@ -664,9 +664,9 @@
                                     Voir le projet <i class="fas fa-external-link-alt text-xs"></i>
                                 </a>
                                 <div class="flex gap-2">
-                                    <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
+                                    <a href="https://github.com/brayano-ux" class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fab fa-github text-xs"></i>
-                                    </button>
+                                    </a>
                                     <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fas fa-play text-xs"></i>
                                     </button>
@@ -704,9 +704,9 @@
                                     Voir le projet <i class="fas fa-external-link-alt text-xs"></i>
                                 </a>
                                 <div class="flex gap-2">
-                                    <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
+                                    <a href="https://github.com/brayano-ux" class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fab fa-github text-xs"></i>
-                                    </button>
+                                    </a>
                                     <button class="w-8 h-8 bg-gray-200 dark:bg-gray-800 hover:bg-primary-600 rounded-full flex items-center justify-center transition-colors">
                                         <i class="fas fa-play text-xs"></i>
                                     </button>
